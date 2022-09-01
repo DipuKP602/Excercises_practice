@@ -1,0 +1,15 @@
+C:\Users\dkp\source\repos\Excercises\Excercises\bin\Debug\net6.0\Excercises.exe
+C:\Users\dkp\source\repos\Excercises\Excercises\bin\Debug\net6.0\Excercises.deps.json
+C:\Users\dkp\source\repos\Excercises\Excercises\bin\Debug\net6.0\Excercises.runtimeconfig.json
+C:\Users\dkp\source\repos\Excercises\Excercises\bin\Debug\net6.0\Excercises.dll
+C:\Users\dkp\source\repos\Excercises\Excercises\bin\Debug\net6.0\Excercises.pdb
+C:\Users\dkp\source\repos\Excercises\Excercises\obj\Debug\net6.0\Excercises.csproj.AssemblyReference.cache
+C:\Users\dkp\source\repos\Excercises\Excercises\obj\Debug\net6.0\Excercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dkp\source\repos\Excercises\Excercises\obj\Debug\net6.0\Excercises.AssemblyInfoInputs.cache
+C:\Users\dkp\source\repos\Excercises\Excercises\obj\Debug\net6.0\Excercises.AssemblyInfo.cs
+C:\Users\dkp\source\repos\Excercises\Excercises\obj\Debug\net6.0\Excercises.csproj.CoreCompileInputs.cache
+C:\Users\dkp\source\repos\Excercises\Excercises\obj\Debug\net6.0\Excercises.dll
+C:\Users\dkp\source\repos\Excercises\Excercises\obj\Debug\net6.0\refint\Excercises.dll
+C:\Users\dkp\source\repos\Excercises\Excercises\obj\Debug\net6.0\Excercises.pdb
+C:\Users\dkp\source\repos\Excercises\Excercises\obj\Debug\net6.0\Excercises.genruntimeconfig.cache
+C:\Users\dkp\source\repos\Excercises\Excercises\obj\Debug\net6.0\ref\Excercises.dll
